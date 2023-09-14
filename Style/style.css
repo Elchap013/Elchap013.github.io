@@ -1,0 +1,23 @@
+body {
+    background-image: url(https://www.siderealagency.com/wp-content/uploads/revslider/hero/Background-2019.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+h2 {
+    font-size: 5em;
+
+    margin: 0;
+
+    padding: 0;
+
+    text-align: center;
+    
+    font-family: arial;
+    color: aliceblue;
+    position:relative
+    front: size 14vw;
+    color: #245462;
+    -webkit-text-stroke: 0.3vw crimson#329d52;
+}
